@@ -34,7 +34,7 @@ status-website:
   navbar:
     - title: SystemStatus
       href: /
-    - title: Open Ticket
+    - title: Open a Support Ticket
       href: https://tfa.gofmx.com/
 
 # Upptime also supports notifications, assigning issues, and more
