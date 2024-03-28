@@ -20,10 +20,7 @@ sites:
     url: https://thefirstacademy.instructure.com/
   - name: ClassLink LaunchPad
     url: https://launchpad.classlink.com/thefirstacademy
-  - name: Outbound Gateway IP
-    check: "tcp-ping"
-    url: $MX
-    
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
