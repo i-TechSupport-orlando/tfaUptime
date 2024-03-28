@@ -27,7 +27,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /tfaUptime
-  logoUrl: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.k12academics.com%2Fnational-directories%2Fchristian-school%2Ffirst-academy-1&psig=AOvVaw0-me4YWZuMehj6gSOQQgNA&ust=1711749934488000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjSv-v7l4UDFQAAAAAdAAAAABAE
+  logoUrl: https://www.k12academics.com/sites/default/files/TFA-Logo-Horiz-wTagline%20(1).png
   name: The First Academy Systems Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
