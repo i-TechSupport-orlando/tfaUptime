@@ -21,7 +21,8 @@ sites:
   - name: ClassLink LaunchPad
     url: https://launchpad.classlink.com/thefirstacademy
   - name: Test Failure Site
-    url: https://thisdoesntexistanywhereondaweb.com
+    #url: https://thisdoesntexistanywhereondaweb.com
+    url: http://www.google.com
 
 
 status-website:
