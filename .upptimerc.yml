@@ -4,7 +4,10 @@ repo: tfaUptime # The name of this repository
 
 sites:
   - name: JSS
-    url: https://jss.thefirstacademy.org:8443/api
+    url: $JAMF_URL/api/v1/auth/token
+    headers: 
+      - "Authorization: $JSS_USERNAME:$JSSPASSWORD"
+      - "Content-Type: application/json"
   - name: Google
     url: https://www.google.com
   - name: FACTS
