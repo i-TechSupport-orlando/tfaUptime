@@ -8,7 +8,6 @@ sites:
     url: $JAMF_URL/api/v1/auth/token
     headers: 
       - "Authorization: $JSS_USERNAME:$JSSPASSWORD"
-      - "Content-Type: application/json"
   - name: Google
     url: https://www.google.com
   - name: FACTS
