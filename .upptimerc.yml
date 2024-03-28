@@ -36,5 +36,13 @@ status-website:
     - title: Open a Support Ticket
       href: https://tfa.gofmx.com/
 
+NOTIFICATION_SLACK: true
+NOTIFICATION_SLACK_WEBHOOK: true
+NOTIFICATION_SLACK_WEBHOOK_URL: $SLACK_URL
+NOTIFICATION_EMAIL: true
+NOTIFICATION_EMAIL_FROM: IT@thefirstacademy.org
+NOTIFICATION_EMAIL_TO: merakialerts@thefirstacademy.org
+
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
