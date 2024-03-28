@@ -18,6 +18,11 @@ sites:
     url: https://thefirstacademy.instructure.com/
   - name: ClassLink LaunchPad
     url: https://launchpad.classlink.com/thefirstacademy
+  - name: Outbound Gateway IP
+    url: $MX
+    port: 80
+    check: "tcp-ping"
+    ipv6: false
   - name: IPv6 test
     url: forwardemail.net
     port: 80
