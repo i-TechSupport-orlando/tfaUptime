@@ -21,14 +21,13 @@ sites:
   - name: ClassLink LaunchPad
     url: https://launchpad.classlink.com/thefirstacademy
 
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /tfaUptime
   logoUrl: https://www.k12academics.com/sites/default/files/TFA-Logo-Horiz-wTagline%20(1).png
-  name: The First Academy Systems Status
+  name: System Status
   introTitle: "**Upptime** monitors TFA's systems and services"
   introMessage: Managed by [i-Tech Support Inc.](https://www.i-techsupport.com/educational-tech/)
   navbar:
