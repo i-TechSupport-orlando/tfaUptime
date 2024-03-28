@@ -4,7 +4,7 @@ repo: tfaUptime # The name of this repository
 
 sites:
   - name: JSS
-    url: https://jss.thefirstacademy.org:8443/JSSResource/computermanagement/id/2069
+    url: https://jss.thefirstacademy.org:8443/api
   - name: Google
     url: https://www.google.com
   - name: FACTS
