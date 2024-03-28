@@ -1,7 +1,7 @@
 url: $JAMF_URL/api/v1/auth/token
 status: down
 code: 401
-responseTime: 299
-lastUpdated: 2024-03-28T21:47:17.709Z
+responseTime: 308
+lastUpdated: 2024-03-28T21:49:43.151Z
 startTime: 2024-03-28T21:14:13.723Z
 generator: Upptime <https://github.com/upptime/upptime>
