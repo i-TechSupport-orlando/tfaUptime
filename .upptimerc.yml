@@ -40,8 +40,8 @@ status-website:
   navbar:
     - title: SystemStatus
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: TFA-Uptime
+      href: https://github.com/keithemyers/tfaUptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
