@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/jss.thefirstacademy.org.ico",
     "slug": "jss",
     "status": "up",
-    "uptime": "1.11%",
-    "uptimeDay": "1.11%",
-    "uptimeWeek": "1.11%",
-    "uptimeMonth": "1.11%",
-    "uptimeYear": "1.11%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 372,
     "timeDay": 372,
     "timeWeek": 372,
     "timeMonth": 372,
     "timeYear": 372,
-    "dailyMinutesDown": {
-      "2024-03-28": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
