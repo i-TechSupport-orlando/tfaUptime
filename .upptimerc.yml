@@ -20,6 +20,8 @@ sites:
     url: https://thefirstacademy.instructure.com/
   - name: ClassLink LaunchPad
     url: https://launchpad.classlink.com/thefirstacademy
+  - name: Test Failure Site
+    url: https://thisdoesntexistanywhereondaweb.com
 
 
 status-website:
