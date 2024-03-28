@@ -6,6 +6,8 @@ sites:
   - name: Jamf Pro
     method: POST
     url: $JAMF_URL/healthCheck.html
+  - name: Jamf Protect
+    url: $JP_URL
   - name: Google
     url: https://www.google.com
   - name: FACTS
@@ -18,16 +20,7 @@ sites:
     url: https://thefirstacademy.instructure.com/
   - name: ClassLink LaunchPad
     url: https://launchpad.classlink.com/thefirstacademy
-  - name: Outbound Gateway IP
-    url: $MX
-    port: 80
-    check: "tcp-ping"
-    ipv6: false
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
