@@ -36,7 +36,8 @@ status-website:
     - title: Open a Support Ticket
       href: https://tfa.gofmx.com/
 
-
+i18n:
+  footer: -----------------------
 
 
 # Upptime also supports notifications, assigning issues, and more
