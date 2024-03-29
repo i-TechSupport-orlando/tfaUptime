@@ -28,7 +28,7 @@ status-website:
   # baseUrl: /tfaUptime
   logoUrl: https://www.k12academics.com/sites/default/files/TFA-Logo-Horiz-wTagline%20(1).png
   name: System Status
-  introTitle: "**Upptime** monitors TFA's systems and services"
+  introTitle: "This system provides 24x7x365 monitoring of key TFA services. Any outages are reported via Slack and email alerts."
   introMessage: Managed by [i-Tech Support Inc.](https://www.i-techsupport.com/educational-tech/)
   navbar:
     - title: Upptime
@@ -37,7 +37,7 @@ status-website:
       href: https://tfa.gofmx.com/
 
 i18n:
-  footer: -----------------------
+  footer:  
 
 
 # Upptime also supports notifications, assigning issues, and more
