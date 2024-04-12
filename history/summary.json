@@ -23,37 +23,37 @@
     "icon": "https://icons.duckduckgo.com/ip3/launchpad.classlink.com.ico",
     "slug": "class-link-launch-pad",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 152,
     "timeDay": 121,
     "timeWeek": 135,
     "timeMonth": 152,
     "timeYear": 152,
-    "dailyMinutesDown": {
-      "2024-04-12": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DyKnow",
     "url": "https://dyknow.me/tfa",
     "icon": "https://icons.duckduckgo.com/ip3/dyknow.me.ico",
     "slug": "dy-know",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 867,
-    "timeDay": 382,
-    "timeWeek": 392,
-    "timeMonth": 867,
-    "timeYear": 867,
-    "dailyMinutesDown": {}
+    "time": 1335,
+    "timeDay": 5299,
+    "timeWeek": 1620,
+    "timeMonth": 1335,
+    "timeYear": 1335,
+    "dailyMinutesDown": {
+      "2024-04-12": 0
+    }
   },
   {
     "name": "FACTS",
