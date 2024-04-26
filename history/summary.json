@@ -40,19 +40,19 @@
     "url": "https://dyknow.me/tfa",
     "icon": "https://icons.duckduckgo.com/ip3/dyknow.me.ico",
     "slug": "dy-know",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1580,
-    "timeDay": 9050,
-    "timeWeek": 2199,
-    "timeMonth": 1580,
-    "timeYear": 1580,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1561,
+    "timeDay": 6300,
+    "timeWeek": 2072,
+    "timeMonth": 1561,
+    "timeYear": 1561,
     "dailyMinutesDown": {
-      "2024-04-26": 0
+      "2024-04-26": 12
     }
   },
   {
