@@ -22,19 +22,19 @@
     "url": "https://launchpad.classlink.com/thefirstacademy",
     "icon": "https://icons.duckduckgo.com/ip3/launchpad.classlink.com.ico",
     "slug": "class-link-launch-pad",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 111,
-    "timeWeek": 131,
-    "timeMonth": 144,
-    "timeYear": 151,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 150,
+    "timeDay": 102,
+    "timeWeek": 126,
+    "timeMonth": 142,
+    "timeYear": 150,
     "dailyMinutesDown": {
-      "2024-05-10": 0
+      "2024-05-10": 13
     }
   },
   {
