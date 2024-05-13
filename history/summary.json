@@ -76,18 +76,20 @@
     "url": "https://tfa.gofmx.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/tfa.gofmx.com.ico",
     "slug": "fmx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 459,
-    "timeDay": 243,
-    "timeWeek": 951,
-    "timeMonth": 453,
-    "timeYear": 459,
-    "dailyMinutesDown": {}
+    "time": 455,
+    "timeDay": 175,
+    "timeWeek": 845,
+    "timeMonth": 443,
+    "timeYear": 455,
+    "dailyMinutesDown": {
+      "2024-05-13": 0
+    }
   },
   {
     "name": "Google Classroom",
