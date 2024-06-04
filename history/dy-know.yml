@@ -1,7 +1,7 @@
 url: https://dyknow.me/tfa
-status: up
-code: 200
-responseTime: 624
-lastUpdated: 2024-06-03T23:00:52.229Z
+status: down
+code: 500
+responseTime: 22596
+lastUpdated: 2024-06-04T10:46:35.075Z
 startTime: 2024-03-29T13:15:38.685Z
 generator: Upptime <https://github.com/upptime/upptime>
