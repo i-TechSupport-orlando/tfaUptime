@@ -4,19 +4,19 @@
     "url": "https://thefirstacademy.instructure.com/",
     "icon": "https://icons.duckduckgo.com/ip3/thefirstacademy.instructure.com.ico",
     "slug": "canvas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 892,
-    "timeDay": 587,
-    "timeWeek": 658,
-    "timeMonth": 1198,
-    "timeYear": 892,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
+    "time": 1056,
+    "timeDay": 9903,
+    "timeWeek": 2978,
+    "timeMonth": 1728,
+    "timeYear": 1056,
     "dailyMinutesDown": {
-      "2024-06-12": 0
+      "2024-06-12": 31
     }
   },
   {
