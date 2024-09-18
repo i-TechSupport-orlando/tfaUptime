@@ -21,6 +21,8 @@ sites:
     url: $JAMF_URL/healthCheck.html
   - name: Jamf Protect
     url: $JP_URL
+  - name: uniFLOW Printing
+    url: https://status.uniflowonline.com/
 
   
  
