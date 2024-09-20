@@ -1,7 +1,7 @@
 url: $JP_URL
-status: down
-code: 500
-responseTime: 5050
-lastUpdated: 2024-09-20T19:42:45.844Z
+status: up
+code: 200
+responseTime: 654
+lastUpdated: 2024-09-20T19:54:59.292Z
 startTime: 2024-03-28T22:25:39.136Z
 generator: Upptime <https://github.com/upptime/upptime>
