@@ -155,18 +155,20 @@
     "url": "$JP_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jamf-protect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 207,
-    "timeWeek": 307,
-    "timeMonth": 312,
-    "timeYear": 294,
-    "dailyMinutesDown": {}
+    "time": 318,
+    "timeDay": 2629,
+    "timeWeek": 834,
+    "timeMonth": 456,
+    "timeYear": 318,
+    "dailyMinutesDown": {
+      "2024-09-20": 0
+    }
   },
   {
     "name": "uniFLOW Printing",
