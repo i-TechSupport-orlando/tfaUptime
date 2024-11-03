@@ -1,3 +1,5 @@
+[The First Academy's Live Status Page](https://status.thefirstacademy.org/)
+
 # [📈 Live Status]([https://upptime.github.io/upptime](https://status.thefirstacademy.org/)): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
