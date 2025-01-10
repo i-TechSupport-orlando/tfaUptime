@@ -123,18 +123,20 @@
     "url": "https://classroom.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/classroom.google.com.ico",
     "slug": "google-classroom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 471,
-    "timeDay": 445,
-    "timeWeek": 411,
-    "timeMonth": 411,
-    "timeYear": 471,
-    "dailyMinutesDown": {}
+    "time": 508,
+    "timeDay": 6358,
+    "timeWeek": 1893,
+    "timeMonth": 782,
+    "timeYear": 508,
+    "dailyMinutesDown": {
+      "2025-01-10": 0
+    }
   },
   {
     "name": "Jamf Pro",
