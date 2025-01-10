@@ -123,19 +123,19 @@
     "url": "https://classroom.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/classroom.google.com.ico",
     "slug": "google-classroom",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 508,
-    "timeDay": 6358,
-    "timeWeek": 1893,
-    "timeMonth": 782,
+    "timeDay": 4411,
+    "timeWeek": 1740,
+    "timeMonth": 774,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-01-10": 0
+      "2025-01-10": 28
     }
   },
   {
