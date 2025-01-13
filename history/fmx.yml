@@ -1,7 +1,7 @@
 url: https://tfa.gofmx.com/login
-status: down
-code: 503
-responseTime: 152
-lastUpdated: 2025-01-13T03:48:16.840Z
+status: up
+code: 200
+responseTime: 444
+lastUpdated: 2025-01-13T04:00:50.385Z
 startTime: 2024-03-28T21:20:24.543Z
 generator: Upptime <https://github.com/upptime/upptime>
