@@ -1,7 +1,7 @@
 url: $JAMF_URL/healthCheck.html
 status: up
 code: 200
-responseTime: 368
-lastUpdated: 2025-02-05T23:00:51.005Z
+responseTime: 450
+lastUpdated: 2025-02-06T23:00:55.500Z
 startTime: 2024-03-28T22:08:02.455Z
 generator: Upptime <https://github.com/upptime/upptime>
