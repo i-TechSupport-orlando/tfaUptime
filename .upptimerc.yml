@@ -33,7 +33,7 @@ status-website:
   introMessage: Managed by [i-Tech Support Inc.](https://www.i-techsupport.com/educational-tech/)
   navbar:
     - title: Upptime
-      href: https://keithemyers.github.io/tfaUptime
+      href: https://i-TechSupport-orlando.github.io/tfaUptime
     - title: Open a Support Ticket
       href: https://tfa.gofmx.com/
 
