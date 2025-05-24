@@ -16,11 +16,8 @@ sites:
     url: https://tfa.gofmx.com/login
   - name: Google Classroom
     url: https://classroom.google.com
-  - name: Jamf Pro (DEPRECATED)
-    method: POST
-    url: $JAMF_URL/healthCheck.html
   - name: Jamf Pro Cloud
-    url: https://tfajamfpro.jamfcloud.com
+    url: $JAMF_CLOUD_URL
   - name: Jamf Protect
     url: $JP_URL
   - name: uniFLOW Printing
