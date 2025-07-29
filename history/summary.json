@@ -171,18 +171,20 @@
     "url": "$JAMF_CLOUD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jamf-pro-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 374,
-    "timeWeek": 334,
-    "timeMonth": 320,
-    "timeYear": 321,
-    "dailyMinutesDown": {}
+    "time": 319,
+    "timeDay": 268,
+    "timeWeek": 313,
+    "timeMonth": 315,
+    "timeYear": 319,
+    "dailyMinutesDown": {
+      "2025-07-29": 0
+    }
   },
   {
     "name": "Jamf Protect",
