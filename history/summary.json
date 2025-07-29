@@ -171,19 +171,19 @@
     "url": "$JAMF_CLOUD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jamf-pro-cloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 268,
-    "timeWeek": 313,
-    "timeMonth": 315,
-    "timeYear": 319,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.95%",
+    "time": 316,
+    "timeDay": 226,
+    "timeWeek": 294,
+    "timeMonth": 309,
+    "timeYear": 316,
     "dailyMinutesDown": {
-      "2025-07-29": 0
+      "2025-07-29": 47
     }
   },
   {
