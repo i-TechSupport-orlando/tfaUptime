@@ -209,19 +209,19 @@
     "url": "https://status.uniflowonline.com/",
     "icon": "https://icons.duckduckgo.com/ip3/status.uniflowonline.com.ico",
     "slug": "uni-flow-printing",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 0,
-    "timeWeek": 275,
-    "timeMonth": 270,
+    "timeDay": 129,
+    "timeWeek": 254,
+    "timeMonth": 266,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2025-08-07": 0
+      "2025-08-07": 18
     }
   }
 ]
