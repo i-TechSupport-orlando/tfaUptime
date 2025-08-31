@@ -13,8 +13,8 @@
     "time": 893,
     "timeDay": 626,
     "timeWeek": 752,
-    "timeMonth": 851,
-    "timeYear": 868,
+    "timeMonth": 830,
+    "timeYear": 869,
     "dailyMinutesDown": {
       "2025-08-06": 59,
       "2025-06-27": 30,
@@ -32,17 +32,17 @@
     "slug": "class-link-launch-pad",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "96.03%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "96.58%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.69%",
     "time": 175,
-    "timeDay": 140,
+    "timeDay": 122,
     "timeWeek": 161,
-    "timeMonth": 180,
+    "timeMonth": 178,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-08-30": 57,
+      "2025-08-30": 49,
       "2025-08-29": 45,
       "2025-08-28": 54,
       "2025-08-26": 21,
@@ -92,8 +92,8 @@
     "time": 868,
     "timeDay": 169,
     "timeWeek": 1554,
-    "timeMonth": 825,
-    "timeYear": 823,
+    "timeMonth": 827,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2025-08-28": 18,
       "2025-08-18": 20,
@@ -122,7 +122,7 @@
     "time": 173,
     "timeDay": 133,
     "timeWeek": 191,
-    "timeMonth": 190,
+    "timeMonth": 188,
     "timeYear": 174,
     "dailyMinutesDown": {}
   },
@@ -140,7 +140,7 @@
     "time": 543,
     "timeDay": 577,
     "timeWeek": 438,
-    "timeMonth": 409,
+    "timeMonth": 405,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2025-02-17": 24,
@@ -165,7 +165,7 @@
     "time": 742,
     "timeDay": 233,
     "timeWeek": 337,
-    "timeMonth": 372,
+    "timeMonth": 364,
     "timeYear": 841,
     "dailyMinutesDown": {
       "2025-01-10": 28
@@ -185,7 +185,7 @@
     "time": 323,
     "timeDay": 178,
     "timeWeek": 292,
-    "timeMonth": 337,
+    "timeMonth": 330,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2025-07-29": 47
@@ -205,7 +205,7 @@
     "time": 315,
     "timeDay": 248,
     "timeWeek": 326,
-    "timeMonth": 346,
+    "timeMonth": 344,
     "timeYear": 324,
     "dailyMinutesDown": {}
   },
@@ -223,7 +223,7 @@
     "time": 283,
     "timeDay": 157,
     "timeWeek": 318,
-    "timeMonth": 302,
+    "timeMonth": 298,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2025-08-07": 18
