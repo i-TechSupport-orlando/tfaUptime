@@ -116,9 +116,9 @@
     "url": "https://renweb1.renweb.com/renweb1/#/Home",
     "icon": "https://icons.duckduckgo.com/ip3/renweb1.renweb.com.ico",
     "slug": "facts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,7 +127,9 @@
     "timeWeek": 207,
     "timeMonth": 208,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-09": 0
+    }
   },
   {
     "name": "FMX",
