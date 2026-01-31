@@ -1,7 +1,7 @@
 url: $JAMF_CLOUD_URL
 status: up
 code: 200
-responseTime: 304
-lastUpdated: 2026-01-30T23:13:36.008Z
+responseTime: 277
+lastUpdated: 2026-01-31T23:09:57.051Z
 startTime: 2025-05-25T00:13:12.979Z
 generator: Upptime <https://github.com/upptime/upptime>
