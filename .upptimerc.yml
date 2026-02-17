@@ -10,7 +10,7 @@ sites:
   - name: DyKnow
     url: https://dyknow.me/tfa
   - name: FACTS
-    url: https://renweb1.renweb.com/renweb1
+    url: https://sis.factsmgt.com/accounts/Account/Login
   - name: FMX
     url: https://tfa.gofmx.com/login
   - name: Google Classroom
