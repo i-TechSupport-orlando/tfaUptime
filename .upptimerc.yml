@@ -26,7 +26,7 @@ sites:
   - name: Quizlet
     url: https://quizlet.com/
   - name: Blooket
-    url: https://www.blooket.com/
+    url: https://www.blooket.com
   - name: Wayground (formerly Quizizz)
     url: https://wayground.com
     
