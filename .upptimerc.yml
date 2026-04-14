@@ -24,7 +24,7 @@ sites:
   - name: Kahoot!
     url: https://create.kahoot.it
   - name: Quizlet
-    url: https://quizlet.com/
+    url: https://quizlet.com
   - name: Blooket
     url: https://www.blooket.com
   - name: Wayground (formerly Quizizz)
